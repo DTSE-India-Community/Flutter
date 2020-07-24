@@ -1,6 +1,7 @@
 # calculatebmi
 
 This application focus on how to calculate Body Mass Index.
+Here we have shown HMS Banner Ads implementation and Interstitial Ads implementation.
 
 
 ## AppGallery Link
