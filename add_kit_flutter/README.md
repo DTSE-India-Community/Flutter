@@ -1,16 +1,12 @@
 # addkitflutter
 
-A new Flutter application.
+In this application we have integrated all the different types of Ads provided by HMS Ads Kit.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Huawei Developer Forum 
 
-A few resources to get you started if this is your first Flutter project:
+## Article 1 - Banner Ads and Splash Ads
+https://forums.developer.huawei.com/forumPortal/en/topicview?tid=0201286813113710087&fid=0101187876626530001
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Article 2 - Interstitial Ads, Reward Ads and Native Ads
+https://forums.developer.huawei.com/forumPortal/en/topicview?tid=0201309157795970140&fid=0101187876626530001
